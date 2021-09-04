@@ -1,0 +1,8 @@
+name: NoDying
+version: 1.0
+main: me.cageydinosaur.nodying.Main
+api-version: 1.16
+commands:
+  nodie:
+    usage: /nodie
+    description: Command for NoDying. Enter it to see usage
