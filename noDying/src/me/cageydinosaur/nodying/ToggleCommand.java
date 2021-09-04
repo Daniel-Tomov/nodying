@@ -26,8 +26,10 @@ public class ToggleCommand implements CommandExecutor {
 			} else if (args.length > 0) {
 				if (args[0].equalsIgnoreCase("toggle")) {
 					if (!gamestarted) {
+						sender.sendMessage("No Dying challenge started");
 						gamestarted = true;
 					} else if (gamestarted) {
+						sender.sendMessage("No Dying challenge stopped");
 						gamestarted = false;
 					}
 				} else if (args[0].equalsIgnoreCase("info")) {
