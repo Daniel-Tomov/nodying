@@ -1,6 +1,8 @@
 # NoDying
 A Minecraft plugin where selected players don't dye
 
+If players an amount of damage that will kill them, the plugin sets them to one heart
+
 # Commands:
 
 /nodie toggle     Starts / Stops the game
