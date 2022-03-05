@@ -1,5 +1,5 @@
 # NoDying
-A Minecraft plugin where selected players don't dye
+A Minecraft plugin where selected players don't die
 
 Made for Minecraft version 1.16. Not tested with other versions
 
